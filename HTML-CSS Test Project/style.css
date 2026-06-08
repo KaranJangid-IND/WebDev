@@ -1,0 +1,116 @@
+body {
+    background-image: url("img/Cricket-bat-ball.png");
+}
+
+#h1 {
+    opacity: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 3rem;
+    background-color: rgb(255, 197, 89);
+    backdrop-filter: blur();
+}
+
+#h3 {
+    opacity: 80%;
+    width: justify;
+    text-align: center;
+    margin-bottom: 0;
+    color: black;
+    background-color: aliceblue;
+    justify-content: center;
+}
+
+#ul {
+    opacity: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 1rem;
+    background-color: wheat;
+    border-radius: 1cap;
+}
+
+#pera {
+    opacity: 80%;
+    margin-top: 0;
+    text-align: center;
+    color: black;
+    background-color: wheat;
+    border-radius: 1cap;
+}
+
+#table {
+    opacity: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 1cap;
+    background-color: wheat;
+    color: rgb(0, 0, 0);
+}
+
+.span1 {
+    opacity: 80%;
+    background-color: aliceblue;
+}
+
+.form {
+    opacity: 80%;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 1rem;
+    color: black;
+    background-color: wheat;
+    border-radius: 1cap;
+}
+
+.main{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.head {
+    text-align: center;
+}
+
+.foot {
+    opacity: 90%;
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 197, 89);
+}
+
+.aside {
+    opacity: 90%;
+    text-align: center;
+    color: black;
+    background-color: aliceblue;
+}
+
+#share {
+    opacity: 80%;
+    color: black;
+    background-color: aliceblue;
+}
+
+#section {
+    margin-bottom: 1rem;
+}
+
+#cap {
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#vid {
+    margin-bottom: 1rem;
+    align-items: center;
+}
