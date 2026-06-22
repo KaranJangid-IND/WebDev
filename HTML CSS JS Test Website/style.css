@@ -1,0 +1,353 @@
+body {
+  text-align: center;
+  background-image: url("img/gameathon-light.png");
+  background-color: white;
+  color: black;
+}
+
+.dark{
+  background-image: url("img/gameathon.png");
+  background-color: black;
+  color: white;
+
+  button {
+    opacity: 90%;
+    padding: 0.3rem;
+    color: black;
+    background-color: yellow;
+    border: 3px solid black;
+    border-top-right-radius: 0.1cap;
+    border-bottom-left-radius: 0.1cap;
+  }
+
+  h1 {
+    padding: 1%;
+    opacity: 90%;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    background-color: brown;
+    border: 3px solid white;
+    color: white;
+  }
+
+  h3 {
+    border-top:3px solid yellow;
+    border-left:3px solid yellow;
+    border-right:3px solid yellow;
+    border-top-left-radius: 1cap;
+    margin-bottom: 0%;
+    background-color: brown;
+    opacity: 90%;
+    color: white;
+  }
+
+  ul {
+    border-bottom:3px solid yellow;
+    border-left:3px solid yellow;
+    border-right:3px solid yellow;
+    border-bottom-right-radius: 1cap;
+    margin-top: 0%;
+    background-color: blue;
+    opacity: 90%;
+    color: white;
+  }
+
+  span {
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    opacity: 90%;
+    padding: 1%;
+    background-color: brown;
+    border: 3px solid white;
+    color: white;
+  }
+
+  p {
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    padding: 0.5%;
+    opacity: 90%;
+    background-color: blue;
+    border: 3px solid yellow;
+    color: white;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    opacity: 90%;
+    align-items: center;
+    text-align: center;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    background-color: blue;
+    border: 3px solid yellow;
+    color: white;
+  }
+
+  form {
+    margin: auto;
+    width: 20rem;
+    padding: 1rem;
+    opacity: 90%;
+    background-color: blue;
+    border: 3px solid yellow;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.light{
+  background-image: url("img/gameathon-light.png");
+  background-color: white;
+  color: black;
+
+  button {
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    opacity: 90%;
+    padding: 0.3rem;
+    color: white;
+    background-color: black;
+    border: 3px solid yellow;
+  }
+
+  h1 {
+    padding: 1%;
+    opacity: 90%;
+    background-color: white;
+    color: brown;
+    border: 3px solid black;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+  }
+
+  h3 {
+    border-top:3px solid black;
+    border-left:3px solid black;
+    border-right:3px solid black;
+    margin-bottom: 0%;
+    background-color: brown;
+    opacity: 90%;
+    color: white;
+    border-top-left-radius: 1cap;
+  }
+
+  ul {
+    border-bottom:3px solid black;
+    border-left:3px solid black;
+    border-right:3px solid black;
+    margin-top: 0%;
+    background-color: white;
+    opacity: 90%;
+    color: black;
+    border-bottom-right-radius: 1cap;
+  }
+
+  span {
+    opacity: 90%;
+    padding: 1%;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    background-color: brown;
+    border: 3px solid black;
+    color: white;
+  }
+
+  p {
+    padding: 0.5%;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    opacity: 90%;
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    opacity: 90%;
+    align-items: center;
+    text-align: center;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+  }
+
+  form {
+    margin: auto;
+    width: 20rem;
+    padding: 1rem;
+    opacity: 90%;
+    background-color: white;
+    border: 3px solid black;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    color: black;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
+button {
+    opacity: 90%;
+    padding: 0.3rem;
+    color: white;
+    background-color: black;
+    border: 3px solid yellow;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+  }
+
+  h1 {
+    padding: 1%;
+    opacity: 90%;
+    background-color: white;
+    color: brown;
+    border: 3px solid black;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+  }
+
+  h3 {
+    border-top:3px solid black;
+    border-left:3px solid black;
+    border-right:3px solid black;
+    margin-bottom: 0%;
+    background-color: brown;
+    opacity: 90%;
+    color: white;
+    border-top-left-radius: 1cap;
+  }
+
+  ul {
+    border-bottom:3px solid black;
+    border-left:3px solid black;
+    border-right:3px solid black;
+    margin-top: 0%;
+    background-color: white;
+    opacity: 90%;
+    color: black;
+    border-bottom-right-radius: 1cap;
+  }
+
+  span {
+    opacity: 90%;
+    padding: 1%;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    background-color: brown;
+    border: 3px solid black;
+    color: white;
+  }
+
+  p {
+    padding: 0.5%;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    opacity: 90%;
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    opacity: 90%;
+    align-items: center;
+    text-align: center;
+    border-top-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+  }
+
+  form {
+  margin: auto;
+  width: 20rem;
+  padding: 1rem;
+  opacity: 90%;
+  background-color: white;
+  border: 3px solid black;
+  border-top-left-radius: 1cap;
+  border-bottom-right-radius: 1cap;
+  color: black;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+caption {
+  border-top-left-radius: 1cap;
+  border-bottom-right-radius: 1cap;
+  border-color: 3px solid white;
+  background-color: brown;
+  color: white;
+}
+
+#option {
+  padding: 0.2rem;
+  border: 3px solid black;
+  border-top-left-radius: 1cap;
+  border-bottom-right-radius: 1cap;
+  opacity: 90%;
+  align-items: center;
+  background-color: white;
+}
+
+div {
+  margin-top: 1rem;
+}
+
+#submit {
+  margin-top: 1cap;
+}
+
+#section {
+  padding: 0.5rem;
+  margin: auto;
+  width: 15rem;
+  background-color: null;
+  margin-top: 1rem;
+}
+
+#vid {
+  align-items: center;
+}
+
+.foot {
+  margin: auto;
+  width: 20rem;
+  border-top: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-top-left-radius: 1cap;
+  opacity: 90%;
+  background-color: yellow;
+  background-blend-mode: color-burn;
+}
+
+.aside {
+  margin: auto;
+  width: 20rem;
+  border-bottom: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  background-color: black;
+  color: white;
+  border-bottom-right-radius: 1cap;
+  background-blend-mode: color-burn;
+}
